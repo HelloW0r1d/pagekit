@@ -8,17 +8,18 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pagekit/pagekit)
 
 Pagekit is a modular and lightweight CMS built with Symfony components and Vue.js.
+Pagekit 是一个现代化轻巧CMS。基于Symfony框架和Vue.js
 
-* [Homepage](http://pagekit.com) - Learn more about Pagekit
-* [Documentation](http://pagekit.com/docs) - User and developer guides
-* [@pagekit](https://twitter.com/pagekit) - Get the latest buzz on Twitter
-* [Google+ Community](https://plus.google.com/communities/104125443335488004107) - Share news and latest work
-* [Gitter Chat](https://gitter.im/pagekit/pagekit) - Join the developer chat on Gitter
+* [Homepage](http://pagekit.com) - 了解更多关于Pagekit
+* [Documentation](http://pagekit.com/docs) - 用户和开发者文档
+* [@pagekit](https://twitter.com/pagekit) - Fo推
+* [Google+ Community](https://plus.google.com/communities/104125443335488004107) - Google+
+* [Gitter Chat](https://gitter.im/pagekit/pagekit) - 开发群 Gitter
 
 ---
 
 <p align="center">
-  <b>Pagekit is an Open Source project developed by YOOtheme.</b>
+  <b>Pagekit 是一款开源CMS，由YOOtheme开发.</b>
   <br><br>
   <a href="https://yootheme.com" align="center">
       <img width="134" height="30" src="http://yootheme.com/pro/images/logo.svg">
@@ -27,30 +28,28 @@ Pagekit is a modular and lightweight CMS built with Symfony components and Vue.j
 
 ---
 
-## Download release (recommended)
+## 下载发布版本 (推荐的)
 
-1. Download the [latest release](https://www.pagekit.com/download).
-2. Extract the archive and copy the extracted folder to your webserver.
-3. Open the extracted url in your browser, i.e. `http://localhost/pagekit` and follow the installer.
+1. 下载 [最新的发布版本](https://www.pagekit.com/download)。
+2. 解压并且复制到服务器目录。
+3. 在浏览器中打开目录 i.e. `http://localhost/pagekit` 然后跟随安装程序。
 
-## Install from source
+## 开发版本安装
 
-If you want to run the current development version, you can [install Pagekit from source](https://pagekit.com/docs/developer/source).
+如果你想安装现在的开发版本, 你可以 [开发版本安装](https://pagekit.com/docs/developer/source).
 
 ## CLI
 
-Pagekit offers a set of commands to run usual tasks on the command line. You can see the available commands with
+Pagekit 提供一系列的命令去运行单独的任务。详细命令如下
 ```
 ./pagekit --help
 ```
 
-## Contributing
+## 贡献
 
-Finding bugs, sending pull requests, translating Pagekit or improving our docs -
-any contribution is welcome and highly appreciated. To get started, head over
-to our [contribution guidelines](.github/CONTRIBUTING.md). Thanks!
+遇到bug, pull requests, 翻译 或者改进我们的Doc 我们欢迎任何贡献。表示感激。 准备开始？请先阅读 [贡献指导方针](.github/CONTRIBUTING.md). 谢谢!
 
-## Copyright and License
+## 版权和开源协议
 
 Copyright [YOOtheme](http://www.yootheme.com) GmbH under the [MIT license](LICENSE).
 
