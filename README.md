@@ -1,6 +1,6 @@
 [![Pagekit Banner](https://cloud.githubusercontent.com/assets/1716665/14317675/ba034b8c-fc09-11e5-81ed-f10f37d86ea5.png)](https://pagekit.com)
 # 由于Pagekit是一个海外项目，并没有对中国大陆对特殊网络环境进行优化。
-将引用的谷歌，MaxCDN更换至BootCDN
+本项目将引用的谷歌，MaxCDN更换至BootCDN
 
 # Pagekit
 
