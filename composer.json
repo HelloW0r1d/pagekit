@@ -28,7 +28,7 @@
         "symfony/routing": "~3.0.0",
         "symfony/stopwatch": "~3.0.0",
         "symfony/templating": "~3.0.0",
-        "symfony/translation": "~3.0.0",
+        "symfony/translation": "~3.2.14",
         "twig/twig": "^1.22"
     },
     "require-dev": {
