@@ -23,7 +23,7 @@
         "psr/log": "~1.0.0",
         "swiftmailer/swiftmailer": "~5.4.5",
         "symfony/debug": "~3.0.0",
-        "symfony/finder": "~3.0.0",
+        "symfony/finder": "~3.4.25",
         "symfony/http-foundation": "~3.0.0",
         "symfony/routing": "~3.0.0",
         "symfony/stopwatch": "~3.0.0",
